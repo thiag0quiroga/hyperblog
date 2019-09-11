@@ -3,3 +3,5 @@ Esta es la historia de Thiago Quiroga.
 Thiago tiene 19 años, nacio en Argentina Buenos Aires.
 
 Esta historia continuara..
+
+y está haciendo el curso de Git y gitHub de Platzi <3.
